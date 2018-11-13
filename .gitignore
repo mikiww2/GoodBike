@@ -14,7 +14,7 @@ istruzioni.txt
 **/*.dia.autosave
 
 #tex
-**/Relazione.pdf
+#Relazione.pdf
 **/*.log
 **/*.aux
 **/*.out
